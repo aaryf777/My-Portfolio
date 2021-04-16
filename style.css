@@ -444,25 +444,25 @@ margin-top: 5px;
         content: '';
         position: absolute;
         display: block;
-        width: 40px;
+        width: 44px;
         background-color: var(--first-color);
-        height: .18rem;
+        height: .17rem;
         border-radius: 22px;
-        margin-top: 10px;
-        margin-left: 38px;
+        margin-top: 11px;
+        margin-left: 36px;
     }
     .about-profession::after {
         content: '';
         position: absolute;
         display: block;
-        width: 42px;
+        width: 44px;
         background-color: var(--first-color);
-        height: .15rem;
+        height: .17rem;
         border-radius: 22px;
         top: 0;
         bottom: 0;
         right: 0;
-        margin-right: 38px;
+        margin-right: 36px;
         margin-top: 11px;
     }
 }
