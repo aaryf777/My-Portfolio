@@ -403,7 +403,7 @@ img {
     height: .15rem;
     border-radius: 22px;
     margin-top: 13px;
-    margin-right: 105px;
+    margin-right: 103px;
     top: 0;
     right: 0;
     
@@ -462,7 +462,7 @@ margin-top: 5px;
         top: 0;
         bottom: 0;
         right: 0;
-        margin-right: 40px;
+        margin-right: 38px;
         margin-top: 11px;
     }
 }
@@ -593,7 +593,7 @@ margin-top: 5px;
     .portfolio-data {
         display: flex;
         width: 98%;
-        height: 70vh;
+        height: 69vh;
         margin-left: 0;
         flex-direction: column;
         align-items: center;
@@ -738,6 +738,9 @@ margin-top: 5px;
 }
 .footer-social:hover {
     color: var(--first-color);
+}
+.footer-end-text {
+    font-size: var(--small-font-size);
 }
 @media screen and (max-width: 768px) {
     .footer-end-text {
