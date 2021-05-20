@@ -536,7 +536,7 @@ margin-top: 5px;
 }
 .portfolio-data img {
     height: 40vh;
-    width: 155px;
+    width: 245px;
     border-radius: .5rem;
     
     background-color: var(--white-color);
@@ -607,7 +607,7 @@ margin-top: 5px;
     }
     .portfolio-data img {
         height: 60%;
-        width: 80%;
+        width: 90%;
         border-radius: .5rem;
         
         background-color: var(--white-color);
